@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Interface</title>
+   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+<body>
+    <div class="main-container">
+        <div class="results-container">
+            <!-- Insert your loop for results here -->
+            {% for result in results %}
+            <p>
+                <strong>ID: </strong>{{ result._id }}. <b>
+                <br>
+                <a href="{{ url_for('get_document', id=result._id) }}">{{ result._source.name }}</a></b>
+                <br>
+                {{ result._source.content }}
+                <br>
+                <small>
+                    Category: {{ result._source.category }}.
+                    {% if result._score %}<i>(Score: {{ result._score }})</i>{% endif %}
+                </small>
+            </p>
+            {% endfor %}
+        </div>
+        <div class="chat-container">
+            {% if chat_results %}
+                {% for chat_result in chat_results %}
+                    <div class="message">
+                        {{ chat_result }}
+                    </div>
+                {% endfor %}
+            {% elif request.method == 'POST' %}
+                <div class="message">No results found.</div>
+            {% endif %}
+            <div class="input-container">
+                <form method="POST" action="{{ url_for('handle_search') }}">
+                    <input type="text" class="input-field" name="query" id="query" placeholder="Enter your search query" autofocus>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,790 @@
+[
+    {
+        "id:": "1",
+        "title": "City Portrait",
+        "content": "Zurich is Switzerland's largest city, known for its financial centre, cultural activities, and educational institutions. It serves as an economic hub, housing over 1.9 million people in its region. Zurich is celebrated for its quality of life, international networks, and high living standards.",
+        "summary": "Zurich is Switzerland's economic and cultural hub, renowned for its quality of life.",
+        "tags": [
+            "Economic hub",
+            "Cultural activities",
+            "Educational institutions",
+            "High quality of life",
+            "International networks"
+        ]
+    },
+    {
+        "id:": "2",
+        "title": "Geography",
+        "content": "Zurich is divided into 12 districts and 34 quarters, with an agglomeration comprising 130 municipalities. It features a varied topography from the Limmat river at 392 meters to the peak of Uetliberg mountain at 871 meters above sea level. Lake Zurich's water table is at 405.94 meters.",
+        "summary": "Zurich's geography ranges from riverbanks to mountain peaks, spanning across multiple districts and municipalities.",
+        "tags": [
+            "Diverse topography",
+            "Urban planning",
+            "Natural landscapes",
+            "Geographical features",
+            "Districts and quarters",
+            "Municipalities"
+        ]
+    },
+    {
+        "id:": "3",
+        "title": "Population",
+        "content": "Zurich has a population exceeding 428,700, growing by 19,500 since 2000. The city's agglomeration is home to 1.4 million people, with 32% being non-Swiss from 172 countries. Germans, Italians, and Portuguese form the largest groups of foreigners.",
+        "summary": "Zurich's diverse population exceeds 428,700, with a significant non-Swiss community.",
+        "tags": [
+            "Demographics",
+            "Growth trends",
+            "Cultural diversity",
+            "Foreign communities",
+            "Urban sociology",
+            "Population dynamics"
+        ]
+    },
+    {
+        "id:": "4",
+        "title": "Economy",
+        "content": "The financial sector is crucial to Zurich, generating a quarter of the city's economic output and employing 59,000 people. The creative economy adds another 39,000 jobs. Zurich's hotels, airport, and central station are key to its economic infrastructure, supporting millions of visitors and passengers annually.",
+        "summary": "Zurich's economy is driven by finance, creativity, and its role as a transportation hub.",
+        "tags": [
+            "Financial sector",
+            "Creative economy",
+            "Infrastructure",
+            "Employment",
+            "Economic output"
+        ]
+    },
+    {
+        "id:": "5",
+        "title": "Zurich in Prehistoric Times",
+        "content": "Prehistoric settlements were found in Zurich at locations such as the Kleiner Hafner peninsula and near the Opera House, dating back to the fifth century BC. Late Celtic settlements were also discovered in the old town, dating from the first century BC.",
+        "summary": "Zurich's prehistoric settlements date back to the fifth century BC, with notable late Celtic findings.",
+        "tags": [
+            "Archaeological sites",
+            "Historical settlements",
+            "Prehistoric era",
+            "Cultural heritage",
+            "Celtic influence"
+        ]
+    },
+    {
+        "id:": "6",
+        "title": "The Roman Turicum",
+        "content": "Following the Roman conquest of the Alps, a military base was established at Lindenhof in 15 BC, initiating the Roman era in Zurich. The area was known as \"Turicum\" and served as a customs point. A castle was constructed on Lindenhof around 370 AD.",
+        "summary": "Roman era in Zurich began in 15 BC with the establishment of a military base and customs point at Lindenhof.",
+        "tags": [
+            "Roman history",
+            "Military strategy",
+            "Ancient architecture",
+            "Cultural exchange",
+            "Historical landmarks"
+        ]
+    },
+    {
+        "id:": "7",
+        "title": "Church Influence During Early Middle Ages",
+        "content": "Little is known about Zurich from the early Middle Ages to the ninth century. The area came under Alemanni and then Frankish Merovingian rule. Ludwig the German built a convent in 853, and the Grossmunster cathedral's congregation was formed around the same time.",
+        "summary": "Zurich was under Alemanni and Frankish rule during the early Middle Ages, with significant religious developments.",
+        "tags": [
+            "Religious history",
+            "Early medieval era",
+            "Architectural heritage",
+            "History",
+            "Religious institutions"
+        ]
+    },
+    {
+        "id:": "8",
+        "title": "Zurich Becomes a Free City",
+        "content": "In the 12th century, Zurich experienced growth and was named \"nobilissimum Sueviae oppidum\" by Otto von Freising. After the house of Z\u00e4hringen died out in 1218, Zurich became a free city, leading to the construction of famous city walls in the 1220s.",
+        "summary": "Zurich became a free city in the 12th century, marked by economic growth and construction of city walls.",
+        "tags": [
+            "History",
+            "Historical milestones",
+            "Political autonomy",
+            "Medieval architecture",
+            "Economic growth"
+        ]
+    },
+    {
+        "id:": "9",
+        "title": "\"Guild Revolution\" and Membership of the Confederation",
+        "content": "The \"guild revolution\" in 1336 led by Rudolf Brun marked the decline of merchant patriciate, establishing an autocratic regime. Zurich allied with Uri, Schwyz, and other cantons, forming the basis of the current canton of Zurich through trade and alliances.",
+        "summary": "The guild revolution of 1336 led to Zurich's autocratic regime and significant alliances, shaping its territory.",
+        "tags": [
+            "Political revolution",
+            "Urban governance",
+            "Economic alliances",
+            "History",
+            "Autocratic regime"
+        ]
+    },
+    {
+        "id:": "10",
+        "title": "Zurich and the Reformation",
+        "content": "Ulrich Zwingli's leadership in the Reformation in 1519 marked a new era for Zurich, aligning the city with Protestant ideals. This led to religious civil wars, ending Zurich's status as a suburb but maintaining its influence in Protestant Switzerland.",
+        "summary": "The Reformation under Ulrich Zwingli in 1519 transformed Zurich into a key Protestant city.",
+        "tags": [
+            "Religious reformation",
+            "Protestantism",
+            "Social change",
+            "History",
+            "Cultural transformation"
+        ]
+    },
+    {
+        "id:": "11",
+        "title": "Cultural Heyday in the 18th Century",
+        "content": "The 18th century was a period of cultural prosperity for Zurich, influenced by figures like Johann Jakob Bodmer. The city experienced economic and constitutional stability, which lasted until the Helvetic Revolution of 1798.",
+        "summary": "The 18th century brought cultural prosperity to Zurich, ending with the Helvetic Revolution of 1798.",
+        "tags": [
+            "Cultural prosperity",
+            "Intellectual movements",
+            "Artistic development",
+            "Economic stability",
+            "History"
+        ]
+    },
+    {
+        "id:": "12",
+        "title": "Economic Upturn and Growth",
+        "content": "The 19th century saw Zurich transition from a guild city to an industrial and economic hub, facilitated by the liberal constitution of 1831 and the establishment of the University of Zurich and ETH. Industrialization led to significant population growth.",
+        "summary": "The 19th century marked Zurich's transformation into an economic and educational centre, driven by industrialization.",
+        "tags": [
+            "Industrialization",
+            "Economic transformation",
+            "Educational expansion",
+            "Population growth",
+            "Urbanization",
+            "History"
+        ]
+    },
+    {
+        "id:": "13",
+        "title": "The City of Zurich",
+        "content": "By incorporating 19 municipalities in 1893 and 1934, Zurich's population peaked in 1962. Subsequent years saw a shift towards suburban growth, with the population stabilizing around 380,000 by 2008.",
+        "summary": "Zurich's urban expansion in the 20th century saw population shifts and growth stabilization.",
+        "tags": [
+            "Urban expansion",
+            "Population dynamics",
+            "Suburban growth",
+            "Municipal policy",
+            "Demographic trends",
+            "Municipalities"
+        ]
+    },
+    {
+        "id:": "14",
+        "title": "Zurich as an Economic, Scientific, and Cultural Centre",
+        "content": "The primary economic significance of Zurich \u2013 namely the service sector (banks and insurance, communications, television, and tourism) \u2013 is increasing due to the close proximity of Zurich Airport. The construction of the S-Bahn suburb train favours the expansion of the agglomeration which has now spread into other cantons. The \u00dcetliberg Tunnel was opened in 2009, which enables the city to be bypassed by motorway to the West and the North. Zurich has also taken on a leading role in terms of science and culture thanks to its broad spectrum of activities. For example Zurich University and ETH, theatre, opera house, concert hall, Swiss museum, art gallery, Rietberg Museum, archives and libraries).",
+        "summary": "Zurich's growth in the service sector, enhanced by infrastructural developments like the S-Bahn and \u00dcetliberg Tunnel, alongside its prominence in science and culture through institutions like Zurich University and ETH, solidify its status as a central hub.",
+        "tags": [
+            "Service sector",
+            "Infrastructure development",
+            "Scientific leadership",
+            "Cultural institutions",
+            "Urban economy",
+            "Economic significance"
+        ]
+    },
+    {
+        "id:": "15",
+        "title": "Education & Knowledge",
+        "content": "Zurich is a pivotal center for knowledge and research, supported by a robust public elementary school system and prestigious technical colleges. It benefits from significant investment in research and a high number of patents per inhabitant, with notable institutions including the ETH, Zurich University, Pedagogical College, ZHAW, and ZHdK. These institutions contribute to Zurich's status as a research hub by offering a wide range of academic and applied research opportunities.",
+        "summary": "Zurich is renowned for its educational institutions and research output, supported by the ETH, Zurich University, and other technical colleges.",
+        "tags": [
+            "Higher education",
+            "Research hub",
+            "Academic institutions",
+            "Innovation",
+            "Educational excellence"
+        ]
+    },
+    {
+        "id:": "16",
+        "title": "Mobility & Transport",
+        "content": "The City of Zurich employs a comprehensive and sustainable mobility strategy, enhancing public spaces and promoting public transport. The city's transport network includes trams, buses, ferries, suburb trains, and funiculars, ensuring efficient local and international connectivity. Zurich central station provides half-hour connections to major Swiss cities and international rail links, complemented by the nearby Zurich airport's accessibility to European capitals.",
+        "summary": "Zurich offers an efficient public transport network and strong international connectivity, aligning with its sustainable mobility strategy.",
+        "tags": [
+            "Public transport",
+            "Sustainable mobility",
+            "Urban connectivity",
+            "Transport infrastructure",
+            "International access",
+            "Mobility strategy"
+        ]
+    },
+    {
+        "id:": "17",
+        "title": "Economy & Employment",
+        "content": "Zurich's economy, particularly its finance sector, contributes significantly to the city's wealth and employment, with 330,000 people employed mainly in the service sector. The city's economic landscape includes biotechnology, life sciences, the creative economy, automotive, and aerospace industries. Additionally, Zurich's role as a congress and tourism venue complements its knowledge-based sectors. Competitive production costs and high productivity levels make Zurich attractive for businesses and workers globally.",
+        "summary": "Zurich's diverse economy and strong service sector, alongside its role as a financial center and hub for innovation and tourism, drive its employment market.",
+        "tags": [
+            "Financial hub",
+            "Innovation industries",
+            "Labor market",
+            "Tourism economy",
+            "Competitive advantage",
+            "Economic diversity"
+        ]
+    },
+    {
+        "id:": "18",
+        "title": "The City of Zucrich as an Employer",
+        "content": "The City of Zurich distinguishes itself as an employer through its commitment to interesting tasks, social responsibility, and progressive working conditions. This includes fair salaries, social benefits, flexible working hours, equal opportunities, and extensive training and educational opportunities.",
+        "summary": "The City of Zurich is marked by its progressive employment practices and commitment to social responsibility and employee development.",
+        "tags": [
+            "Employment practices",
+            "Social responsibility",
+            "Progressive workplace",
+            "Professional development",
+            "Municipal employment"
+        ]
+    },
+    {
+        "id:": "19",
+        "title": "Education & Knowledge",
+        "content": "Zurich is a leading knowledge and research centre, supported by its education system and technical colleges. The Swiss Federal Institute of Technology (ETH) and Zurich University are prominent institutions, alongside the Pedagogical College, ZHAW, and ZHdK. These institutions contribute to Zurich's status as a hub for research and development.",
+        "summary": "Zurich excels in education and research, hosting top institutions like ETH and Zurich University.",
+        "tags": [
+            "Knowledge economy",
+            "Technical colleges",
+            "Research contributions",
+            "Educational landscape",
+            "Academic research",
+            "University excellence"
+        ]
+    },
+    {
+        "id:": "20",
+        "title": "Mobility & Transport",
+        "content": "Zurich advocates for sustainable mobility, offering a modern public transport network including trams, buses, and trains, and promoting public spaces for living and leisure. The city's strategic location and transport infrastructure provide efficient local and international connectivity.",
+        "summary": "Zurich promotes sustainable mobility with a comprehensive public transport network and efficient connections.",
+        "tags": [
+            "Sustainable transport",
+            "Urban planning",
+            "Accessibility",
+            "Mobility strategy",
+            "Transport network"
+        ]
+    },
+    {
+        "id:": "21",
+        "title": "Economy & Employment",
+        "content": "Zurich attracts businesses and talent globally, with the service sector dominating employment. It is a key financial hub, fostering innovation in various industries. The city supports a diverse economy, from biotechnology to creative sectors, benefiting from high productivity and competitive costs.",
+        "summary": "Zurich's economy is diverse and dynamic, with a strong service sector and a role as a financial hub.",
+        "tags": [
+            "Economic diversity",
+            "Service industry",
+            "Business environment",
+            "Employment opportunities",
+            "Financial services"
+        ]
+    },
+    {
+        "id:": "22",
+        "title": "Culture & Events",
+        "content": "Zurich's cultural landscape is vibrant and diverse, with a rich history and a modern scene encompassing everything from opera to avant-garde niches. The city's nightlife, festivals, and arts reflect its cultural vitality. Festivals like the Zurich Theatre Spectacular and the Zurich Film Festival highlight its cultural calendar.",
+        "summary": "Zurich boasts a rich and diverse cultural scene, marked by numerous festivals and avant-garde offerings.",
+        "tags": [
+            "Cultural scene",
+            "Festivals and events",
+            "Artistic diversity",
+            "Entertainment",
+            "Cultural vitality"
+        ]
+    },
+    {
+        "id:": "23",
+        "title": "Nature & the Environment",
+        "content": "Zurich ranks highly in quality of life, thanks to its green spaces, water quality, and access to natural beauty. The city prioritizes environmental quality, with parks, lakes, and rivers playing a central role. The Zurich Wilderness Park and Zurich Zoo are examples of its commitment to nature and conservation.",
+        "summary": "Zurich excels in environmental quality, offering abundant green spaces and high-quality natural resources.",
+        "tags": [
+            "Environmental quality",
+            "Green spaces",
+            "Conservation efforts",
+            "Natural resources",
+            "Urban ecology"
+        ]
+    },
+    {
+        "id:": "24",
+        "title": "Climate Neutral City",
+        "content": "Zurich aims to be climate neutral by 2040, reducing direct greenhouse gas emissions to net zero. Indirect emissions per inhabitant are targeted to decrease by 30% compared to 1990 levels. The city administration seeks to achieve net zero by 2035, with plans to include this target in the municipal code.",
+        "summary": "Zurich targets climate neutrality by 2040 with significant reductions in both direct and indirect greenhouse gas emissions.",
+        "tags": [
+            "Climate neutrality",
+            "Greenhouse gas reduction",
+            "Environmental policy",
+            "Sustainable urban planning",
+            "Emission targets"
+        ]
+    },
+    {
+        "id:": "25",
+        "title": "Healthy Urban Environment",
+        "content": "Zurich prioritizes high environmental quality, including protection from sound, noise, temperature, light, and radiation, to ensure a healthy life for its residents. Initiatives include a Heat Mitigation Plan, Noise Protection Strategy, Air Pollution Control Action Plan, and an Urban Trees Plan to enhance well-being and health protection.",
+        "summary": "Zurich focuses on environmental quality for health protection, with strategic plans addressing heat, noise, air pollution, and urban trees.",
+        "tags": [
+            "Environmental health",
+            "Pollution control",
+            "Urban well-being",
+            "Health initiatives",
+            "Quality of life"
+        ]
+    },
+    {
+        "id:": "26",
+        "title": "Networked Urban Nature",
+        "content": "The city integrates ecologically valuable habitats with urban living, fostering biodiversity through outdoor spaces and building shells. The Green Book and Concept of Species and Habitat Promotion outline goals and measures for sustaining biodiversity, addressing challenges like population growth and climate change.",
+        "summary": "Zurich promotes biodiversity through interconnected habitats and ecological infrastructure, aiming for sustainable urban nature.",
+        "tags": [
+            "Biodiversity",
+            "Ecological habitats",
+            "Sustainable development",
+            "Urban nature",
+            "Conservation strategies"
+        ]
+    },
+    {
+        "id:": "27",
+        "title": "Intelligent Use of Resources",
+        "content": "As an innovation driver for a circular economy, Zurich champions the efficient use of resources, including energy, water, soil, and raw materials. Efforts focus on sustainability in procurement, emphasizing the environmental and social standards throughout the life cycle of products and services.",
+        "summary": "Zurich leads in resource conservation and circular economy practices, with a strong focus on sustainable procurement and innovation.",
+        "tags": [
+            "Circular economy",
+            "Resource efficiency",
+            "Sustainable procurement",
+            "Environmental innovation",
+            "Conservation measures"
+        ]
+    },
+    {
+        "id:": "28",
+        "title": "Accommodation & Construction",
+        "content": "Zurich is experiencing population growth and a demand for more living space, leading to more compact and higher new buildings. Despite tensions in the housing market, the city facilitates access to apartments through support for new buildings, subsidies for community apartments, and collaboration with private developers. Efforts are focused on advancing the 2000-Watt society through energy-efficient building standards.",
+        "summary": "Zurich addresses housing demand through compact, high-quality construction and support for energy-efficient buildings.",
+        "tags": [
+            "Housing demand",
+            "Urban development",
+            "Energy efficiency",
+            "Construction standards",
+            "Living space optimization"
+        ]
+    },
+    {
+        "id:": "29",
+        "title": "Safety & Cleanliness",
+        "content": "Quality of life in Zurich is enhanced by safety, order, and cleanliness. The city promotes environmentally friendly waste disposal and sustainable supplies of energy and water, providing over 300 collection points for recyclable materials. A high level of trust in law enforcement contributes to Zurich's status as a clean and safe city.",
+        "summary": "Zurich's high quality of life is supported by initiatives for safety, cleanliness, and environmental consciousness.",
+        "tags": [
+            "Public safety",
+            "Urban cleanliness",
+            "Environmental sustainability",
+            "Waste management",
+            "Community trust"
+        ]
+    },
+    {
+        "id:": "30",
+        "title": "Integration & International Networks",
+        "content": "Over 30% of Zurich's inhabitants are non-Swiss, contributing to its dynamic, successful, and multicultural urban environment. Zurich engages in national and international networks, representing its interests and exchanging knowledge globally. The city supports international partnerships and provides financial aid for global development projects through Swiss charities.",
+        "summary": "Zurich is a multicultural city actively engaged in national and global networks, contributing to sustainable development.",
+        "tags": [
+            "Multiculturalism",
+            "International relations",
+            "Sustainable development",
+            "Global networks",
+            "Community integration"
+        ]
+    },
+    {
+        "id": "31",
+        "title": "Politics & Law in Zurich",
+        "content": "At a political level, a municipality is the smallest unit of government in Switzerland. The City of Zurich itself is an example of a municipality. The next level is the canton of Zurich, which also has its own government and parliament. There are 26 cantons which are part of Switzerland and form what is known as the Helvetic Confederation. The City of Zurich as a municipality enjoys significant decision-making powers and autonomy within Switzerland's political system. Voters can have their say on proposals and laws and elect candidates to office, giving them important involvement in how the politics of the City of Zurich are shaped. Innovative decisions and unconventional solutions often have an influence on both national politics and those of the metropolitan region of Zurich.",
+        "summary": "The City of Zurich operates within a robust political system with significant autonomy, allowing voters substantial influence over municipal decisions.",
+        "tags": [
+            "Political system",
+            "Municipal autonomy",
+            "Voter involvement",
+            "Innovative governance",
+            "Regional influence"
+        ]
+    },
+    {
+        "id": "32",
+        "title": "Administration in Zurich",
+        "content": "The City of Zurich's administration is made up of nine departments and the corresponding service departments which implement the rulings of the City Parliament. The administration is run by a nine-member City Council which is elected by the people. As an employer, the City of Zurich has forged a reputation for providing interesting assignments, social commitment and progressive working conditions, the latter including fair salaries and advantageous social conditions, a variety of working models, equal opportunities for men and women and a wide range of training and educational possibilities.",
+        "summary": "Zurich's administration, led by the nine-member City Council, is recognized for its progressive working conditions and commitment to social initiatives.",
+        "tags": [
+            "Public Administration",
+            "City Governance",
+            "Progressive Work Conditions",
+            "Social Commitment",
+            "City of Zurich"
+        ]
+    },
+    {
+        "id": "33",
+        "title": "The Zurich City Council",
+        "content": "The City Council constitutes the government of the City of Zurich and operates as a collegiate authority. Its nine members work on a full-time basis and each member presides over a department. The president of the executive department acts as mayor. The nine City Council members carry out departemental tasks and projects, coordinate various measures and implement laws decreed by the City Parliament. The election of the City Council by registered voters is held every four years.",
+        "summary": "The Zurich City Council governs the city through a collegiate system, with each member overseeing a department and elections held every four years.",
+        "tags": [
+            "City Council",
+            "Government Operations",
+            "Departmental Leadership",
+            "Collegiate Authority",
+            "Municipal Elections"
+        ]
+    },
+    {
+        "id": "34",
+        "title": "City Parliament of Zurich",
+        "content": "The City Parliament is made up of 125 members, with elections held every four years. The City Parliament decrees regulations and by-laws executed by the City Council and by the administration. All dealings of the City Parliament are public. Members of the City Parliament are not politicians by profession, but they are paid a fee based on their attendance. Any resident of the City of Zurich entitled to vote can be elected to the City Parliament (with the same applying to the City Council).",
+        "summary": "Zurich's City Parliament, comprising 125 elected members, plays a critical role in legislative processes, with its dealings being public and open for election to residents.",
+        "tags": [
+            "Legislative Body",
+            "Public Affairs",
+            "City Parliament",
+            "Democratic Process",
+            "Civic Engagement"
+        ]
+    },
+    {
+        "id": "35",
+        "title": "Policies in the City of Zurich",
+        "content": "The successful development of the City of Zurich in recent years has been aided by sound economic climate and by the implementation of important strategies within the city. These include, but are not limited to, progressive residential building policies, the development of public transport, the increased variety in terms of culture and the upgrading of public areas. To make sure that this progress continues, the city council has defined various spheres of activity. The long-term policies of the City of Zurich are based on the \u00abZurich 2035 strategies\u00bb and follow the vision of further developing Zurich into a metropolis with sustainable facilities.",
+        "summary": "Zurich's development is guided by the \u00abZurich 2035 strategies\u00bb, focusing on sustainable urban planning, public transport, cultural diversity, and public space enhancement.",
+        "tags": [
+            "Urban Development",
+            "Sustainable Planning",
+            "Public Transport",
+            "Cultural Diversity",
+            "Zurich 2035 Strategies"
+        ]
+    },
+    {
+        "id": "36",
+        "title": "Services in Zurich",
+        "content": "The exchange of ideas and experiences is an important success factor in terms of competition with other locations. The city lives thanks to those people, organisations and businesses which come to Zurich and contribute to the diversity and dynamic of the city by their motivation and their commitment. The city's administration and its employees offer an array of services, advice and support to guests, new arrivals to the city, businesses and delegations from other cities and countries. Whether you want to set up a company in Zurich, see the tourist sights or come here to live, study or work, you will find useful information in the following sections.",
+        "summary": "Zurich thrives on a dynamic exchange of ideas, supported by a broad range of services for residents, businesses, and visitors.",
+        "tags": [
+            "Service Provision",
+            "Diversity and Dynamism",
+            "Business Support",
+            "Tourist Information",
+            "New Arrivals"
+        ]
+    },
+    {
+        "id": "37",
+        "title": "Zurich for Tourists",
+        "content": "Zurich is Switzerland's biggest tourist destination and was in the \u00abLonely Planet\u00bb guide book's top ten of best places to visit around the world. The City of Zurich offers visitors from Switzerland and abroad a wide variety of cultural and sporting opportunities to enjoy with various events and public festivals taking place throughout the year. \u00abZurich Tourism\u00bb is the marketing organisation which promotes tourism for the city and the canton as well as for the region around Zurich in collaboration with the authorities, the hotel and hospitality industries, cultural institutions and other interested parties.",
+        "summary": "Zurich, a major tourist destination, offers a wealth of cultural and sporting events, promoted by Zurich Tourism.",
+        "tags": [
+            "Tourism Promotion",
+            "Cultural Events",
+            "Sporting Opportunities",
+            "Zurich Tourism",
+            "Public Festivals"
+        ]
+    },
+    {
+        "id": "38",
+        "title": "Zurich Foreign Affairs",
+        "content": "The Foreign Affairs Office implements the mayor's foreign policy strategy on a regional, a national and an international level. It creates the basis for cooperation, forms cross-border alliances and promotes important exchanges of experiences between cities and positions Zurich as a sustainable, open and tolerant metropolis which takes its responsibilities towards Switzerland and the rest of the world very seriously. To the outside world, this Office is a gateway; internally it coordinates all the various activities. It fosters partnerships and cooperation and makes sure that business is done fairly.",
+        "summary": "Zurich's Foreign Affairs Office fosters international cooperation and promotes the city as a responsible, open, and sustainable metropolis.",
+        "tags": [
+            "International Relations",
+            "Foreign Policy",
+            "Cooperation and Alliances",
+            "Sustainable Metropolis",
+            "Cross-Border Partnerships"
+        ]
+    },
+    {
+        "id": "39",
+        "title": "Zurich for Business",
+        "content": "The Office for Economic Development is the city's point of contact for established and new companies. It provides information on issues regarding location and will help guide you through how the city's administration works. In conjunction with the Greater Zurich Area, the Office for Economic Development carries out active location marketing for the City of Zurich. It initiates and supports cluster activities and projects which promote start-ups and newly formed businesses in the City of Zurich. These activities are underscored by good networking with other organisations which carry out location development and promotion. The Economic Development team is ready and willing to answer any questions or queries you may have.",
+        "summary": "Zurich's Office for Economic Development supports businesses with location guidance, networking, and promotion of start-ups and new ventures.",
+        "tags": [
+            "Economic Development",
+            "Business Support",
+            "Location Marketing",
+            "Start-Up Promotion",
+            "Cluster Activities"
+        ]
+    },
+    {
+        "id": "40",
+        "title": "Zurich for Students",
+        "content": "Zurich is a nucleus for learning and knowledge. The city is home to two world-class universities: ETH Swiss Federal Institute of Technology Zurich (ranked 5th in Europe) and Zurich University (ranked 13th in Europe) which produced 21 Nobel Prize winners. The Pedagogical College, the Zurich University of Applied Sciences (ZHAW) and the Zurich University of the Arts (ZHdK) are another three top-class technical colleges which contribute to Zurich's reputation as a knowledge and research pole by providing applied research and development. Zurich is also an important center for research and development. 50 research and technology centers are located in the Greater Zurich Area, e.g., Swiss Re Center of Global Dialogue, IBM Zurich Research Laboratory, Google European Engineering Center, Microsoft Developer Center, Gottlieb Duttweiler Institut GDI.",
+        "summary": "Zurich, with its prestigious universities and research centers, is a leading hub for education and innovation.",
+        "tags": [
+            "Higher Education",
+            "Research and Development",
+            "Nobel Prize Winners",
+            "Universities",
+            "Technical Colleges"
+        ]
+    },
+    {
+        "id": "41",
+        "title": "Grossmunster \u2013 Zurich\u2019s Famous Landmark",
+        "content": "The Grossmunster church is a landmark of Zurich. Legend has it that the church was built on the graves of the city\u2019s patron saints, Felix and Regula. According to legend, Charlemagne discovered the graves and had a church built as a monastery on the spot. In the first half of the 16th century, the Grossmunster church was the starting point of the Swiss-German Reformation led by Huldrych Zwingli and Heinrich Bullinger. The theological college then annexed to the monastery spawned what is now the University of Zurich. The stained glass windows by Sigmar Polke, the Romanesque crypt, choir windows by Augusto Giacometti, bronze doors by Otto Munch, and the cloister Reformation Museum are highlights of this important Zurich landmark.",
+        "summary": "The Grossmunster, a pivotal site of the Swiss-German Reformation, is a historical and architectural marvel with notable works by Sigmar Polke and Augusto Giacometti.",
+        "tags": [
+            "Historical Landmark",
+            "Reformation Site",
+            "Architectural Marvel",
+            "Cultural Heritage",
+            "Grossmunster Church"
+        ]
+    },
+    {
+        "id": "42",
+        "title": "Fraumunster Church",
+        "content": "The Fraumunster and Grossmunster churches are landmarks of Zurich. Founded in 853 by King Louis the German, this church and its convent were inhabited by female members of the European aristocracy. The convent enjoyed patronage of kings and the abbess the right to mint coins in Zurich until well into the 13th century. After the Reformation, ownership passed to the city of Zurich. Architectural features include the Romanesque chancel and high vaulted transept. The stained glass windows by Chagall and Giacometti, and frescos by Paul Bodmer, are among its treasures.",
+        "summary": "The Fraumunster, renowned for its stained glass windows by Chagall and Giacometti, represents a significant part of Zurich's religious and cultural heritage.",
+        "tags": [
+            "Historical Church",
+            "Stained Glass Art",
+            "Religious Heritage",
+            "Fraumunster",
+            "Cultural Landmark"
+        ]
+    },
+    {
+        "id": "43",
+        "title": "Uetliberg \u2013 Zurich\u2019s Very Own Mountain",
+        "content": "Uetliberg is Zurich\u2019s very own 'mountain', offering beautiful views of the city, lake, and the Alps. Popular throughout the year, it offers an impressive panoramic view from its summit, especially above the fog in November. In winter, the hiking trails become sledding runs. In summer, there\u2019s plenty to discover on hiking routes, a mountain bike route, and the Planet Trail, which takes you on a tour through a model of our solar system. The Uetliberg is an ideal excursion destination for all ages.",
+        "summary": "Uetliberg is a cherished natural escape with stunning views over Zurich, offering activities ranging from sledding in winter to hiking and biking in summer.",
+        "tags": [
+            "Natural Escape",
+            "Panoramic Views",
+            "Recreational Activities",
+            "Uetliberg Mountain",
+            "Outdoor Leisure"
+        ]
+    },
+    {
+        "id": "44",
+        "title": "Bahnhofstrasse \u2013 Zurich's Shopping Boulevard",
+        "content": "Bahnhofstrasse, Zurich's central shopping boulevard, connects Zurich Main Station with Lake Zurich, spanning 1.4 kilometers. Created after the construction of Zurich\u2019s Main Railway Station, it is today a bustling avenue lined with boutiques, department stores, and timepiece stores, particularly around Paradeplatz, the Swiss banking center. It attracts both locals and visitors, offering a mix of international brands and local specialties. Rennweg and Augustinergasse lead into the picturesque old town from Bahnhofstrasse.",
+        "summary": "Bahnhofstrasse, a world-renowned shopping boulevard, features a wide range of shops from international brands to local boutiques, connecting the main station to Lake Zurich.",
+        "tags": [
+            "Shopping Boulevard",
+            "Luxury Brands",
+            "Central Zurich",
+            "Tourist Attraction",
+            "Bahnhofstrasse"
+        ]
+    },
+    {
+        "id": "45",
+        "title": "Lake Zurich",
+        "content": "Lake Zurich, Switzerland\u2019s fifth largest lake, has transitioned from a transport route to a beloved leisure destination. Surrounded by forested hills, it offers numerous activities like swimming, sailing, boating, and picnicking. Ferries and the dam at Rapperswil provide cross-lake access, and the Lake Zurich Navigation Company operates steamboats and motor vessels. The lake also hosts the popular \u201cSeeuberquerung\u201d swimming event in summer. With four islands and numerous lidos, Lake Zurich is a paradise for water lovers and bathers.",
+        "summary": "Lake Zurich is a versatile leisure destination offering everything from swimming and sailing to picnicking, framed by scenic views and accessible by various modes of transportation.",
+        "tags": [
+            "Leisure Destination",
+            "Lake Zurich",
+            "Recreational Activities",
+            "Natural Beauty",
+            "Water Sports"
+        ]
+    },
+    {
+        "id": "46",
+        "title": "Sechsel\u00e4utenplatz \u2013 Combines Tradition With Modernity",
+        "content": "Sechsel\u00e4utenplatz, located between Bellevue and Zurich's Opera House, is a historic square and a place for relaxation. It hosts the Sechsel\u00e4uten Spring Festival, where the B\u00f6\u00f6gg, an effigy symbolizing winter, is burned to welcome summer. Additionally, the square hosts the National Circus Knie, a Christmas market, and is close to the Bellevue tram stop. With 16,000 m\u00b2 of elegant quartzite, seating, and water elements, it is one of Switzerland\u2019s largest city squares and a cozy spot for visitors.",
+        "summary": "Sechsel\u00e4utenplatz is a blend of tradition and modernity, hosting various events and offering relaxation near Zurich's Opera House and Lake Zurich.",
+        "tags": [
+            "Public Square",
+            "Cultural Events",
+            "Tradition and Modernity",
+            "Urban Relaxation",
+            "Sechsel\u00e4utenplatz"
+        ]
+    },
+    {
+        "id": "47",
+        "title": "Lindenhof \u2013 From Roman Fort to Green Vantage Point Over Zurich",
+        "content": "Lindenhof is an historical square and oasis at the heart of Zurich, offering magnificent views of the Old Town, Grossmunster Church, City Hall, and the Limmat river. It has been a significant site through history, from a Roman fort to a regal palace built by Charlemagne\u2019s grandson, and later a gathering place for important events such as the oath sealing the Helvetic Constitution in 1798. Today, Lindenhof serves as a peaceful retreat and a favorite spot for chess enthusiasts.",
+        "summary": "Lindenhof is a peaceful green space in Zurich's heart, rich in history and offering stunning views of the city's significant landmarks.",
+        "tags": [
+            "Historical Square",
+            "Green Space",
+            "Panoramic Views",
+            "Cultural Significance",
+            "Lindenhof"
+        ]
+    },
+    {
+        "id": "48",
+        "title": "Zurich-West \u2013 From Industrial Quarter to Trendy District",
+        "content": "Zurich-West, a neighborhood known for its unpolished charm and contrasts, has transformed from an industrial area into a trendy district. It now houses restaurants, bars, stores, and cultural venues in spaces once occupied by factories. Highlights include design boutiques and market halls under the railway arches at 'Im Viadukt', Frau Gerolds Garten, and the Freitag Flagship Store. The district is also known for the Prime Tower, Switzerland's tallest building until the Roche Towers in Basel, and hosts various cultural events.",
+        "summary": "Zurich-West has evolved from an industrial area to a vibrant neighborhood, boasting art, design, and culinary delights in creatively repurposed spaces.",
+        "tags": [
+            "Urban Regeneration",
+            "Cultural Hub",
+            "Trendy District",
+            "Creative Spaces",
+            "Zurich-West"
+        ]
+    },
+    {
+        "id": "49",
+        "title": "Polyterrasse, Federal Institute of Technology and Zurich University",
+        "content": "The Polyterrasse, situated between the ETH (Federal Institute of Technology) and the University of Zurich, offers panoramic views over Zurich's old town and Lake Zurich. Accessible via the Polybahn, the terrace is part of the ETH campus, known for its imposing architecture by Gottfried Semper. The University of Zurich, located nearby, is a prestigious institution with over 30,000 workers and students. The terrace is a popular spot for enjoying the cityscape, though regulations restrict the consumption of alcohol, littering, barbecuing, and playing music to ensure a pleasant atmosphere for all visitors.",
+        "summary": "The Polyterrasse provides stunning views over Zurich from its location between the ETH and the University of Zurich, offering a serene urban overlook.",
+        "tags": [
+            "Educational Institutions",
+            "Panoramic Views",
+            "Urban Landscape",
+            "Polyterrasse",
+            "ETH and University"
+        ]
+    },
+    {
+        "id": "50",
+        "title": "Grossmunster \u2013 Zurich\u2019s Famous Landmark",
+        "content": "The Grossmunster church, a symbol of Zurich, is believed to have been founded on the graves of the city's patron saints, Felix and Regula. This historic church played a pivotal role in the Swiss-German Reformation under the leadership of Huldrych Zwingli and Heinrich Bullinger in the 16th century. Its architectural highlights include stained glass windows by Sigmar Polke, choir windows by Augusto Giacometti, and the Romanesque crypt. The Karlsturm is open to the public, offering views of the city.",
+        "summary": "The Grossmunster is a central piece of Zurich's history and architecture, notable for its connection to the Reformation and its artistic contributions.",
+        "tags": [
+            "Religious Landmark",
+            "Reformation History",
+            "Artistic Contributions",
+            "Grossmunster",
+            "Cultural Heritage"
+        ]
+    },
+    {
+        "id": "51",
+        "title": "St. Peter \u2013 the Oldest Parish Church in Zurich",
+        "content": "St. Peter's Church, the oldest parish church in Zurich, features the largest church clock face in Europe. It has a rich history dating back to the 9th century with the foundation walls still visible under the choir. The church has been a significant site through various epochs, serving as a lookout in the past and now hosting regular music concerts. Its clock face is 8.7 meters in diameter, and the tower houses five bells from 1880.",
+        "summary": "St. Peter's Church, known for its vast clock face and historical depth, remains a significant cultural and architectural site in Zurich.",
+        "tags": [
+            "Oldest Church",
+            "Historical Architecture",
+            "Cultural Site",
+            "St. Peter's Church",
+            "Large Clock Face"
+        ]
+    },
+    {
+        "id": "52",
+        "title": "Fraumunster Church",
+        "content": "The Fraumunster Church, alongside Grossmunster, is a prominent Zurich landmark, founded in 853 by King Louis the German. It served as a convent with significant influence, enjoying royal patronage and minting rights until the Reformation. Architectural highlights include the Romanesque chancel, Giacometti's stained glass in the north transept, and Chagall's works in the chancel and southern transept.",
+        "summary": "Fraumunster Church stands out for its historical significance and the stunning stained glass windows by Chagall and Giacometti.",
+        "tags": [
+            "Historical Church",
+            "Stained Glass Windows",
+            "Cultural Heritage",
+            "Fraumunster",
+            "Artistic Legacy"
+        ]
+    },
+    {
+        "id": "53",
+        "title": "Cabaret Voltaire \u2013 The Birthplace of Dada",
+        "content": "Cabaret Voltaire, founded in 1916 by Hugo Ball and Emmy Hennings in Zurich's Old Town, is the birthplace of the Dada movement. This avant-garde movement sought to challenge conventional art forms during WWI. Today, Cabaret Voltaire continues to serve as a platform for contemporary art and debates, hosting exhibitions and events that echo the spirit of Dada.",
+        "summary": "Cabaret Voltaire is a crucial cultural hub in Zurich, marking the origin of the Dada movement with ongoing contributions to contemporary art.",
+        "tags": [
+            "Cultural Hub",
+            "Dada Movement",
+            "Contemporary Art",
+            "Cabaret Voltaire",
+            "Artistic Debates"
+        ]
+    },
+    {
+        "id": "54",
+        "title": "Kunsthaus Zurich",
+        "content": "Kunsthaus Zurich, Switzerland's largest art museum, showcases an extensive collection from the 13th century to present day. It features the largest Munch collection outside Norway and works by notable artists such as Picasso, van Gogh, and Chagall. The museum's extension by David Chipperfield adds a modern architectural element, connecting it organically to its surroundings and offering spaces for exhibitions, workshops, and events.",
+        "summary": "Kunsthaus Zurich stands as a premier destination for art lovers, offering a broad spectrum of historical and contemporary art in an architecturally significant setting.",
+        "tags": [
+            "Art Museum",
+            "Historical and Contemporary Art",
+            "Architectural Significance",
+            "Kunsthaus Zurich",
+            "Cultural Destination"
+        ]
+    },
+    {
+        "id": "55",
+        "title": "Giacometti Frescos (\"Bluemlihalle\")",
+        "content": "The entrance hall of Zurich's city police headquarters, known as the \"Bluemlihalle\" (hall of little flowers), features Giacometti frescos by Augusto Giacometti. Created between 1923 and 1925, this art-in-architecture work is considered one of the most beautiful police station entrance halls worldwide. The frescos, executed in warm red and ochre tones using al fresco and al secco techniques, include ornamental floral designs and geometric patterns, alongside depictions of people at work, symbolizing various trades and sciences. This piece is of national importance and showcases Giacometti's significant contribution to art and architecture.",
+        "summary": "The \"Bluemlihalle\", adorned with Augusto Giacometti's frescos, is a unique art-in-architecture masterpiece within Zurich's city police headquarters.",
+        "tags": [
+            "Art in Architecture",
+            "Historic Frescos",
+            "Cultural Significance",
+            "Police Headquarters",
+            "Giacometti"
+        ]
+    },
+    {
+        "id": "56",
+        "title": "Bahnhofstrasse \u2013 Zurich's Shopping Boulevard",
+        "content": "Bahnhofstrasse, stretching 1.4 kilometers from Lake Zurich to the Main Railway Station, is Zurich's central shopping boulevard and one of the world's most expensive and exclusive shopping avenues. Home to international brands, boutiques, department stores, and the Swiss banking center at Paradeplatz, Bahnhofstrasse attracts both locals and visitors. Its proximity to historical sites like Rennweg and Augustinergasse adds to its appeal, making it a must-visit for those looking to enjoy luxury shopping, dining, and the city's scenic beauty.",
+        "summary": "Bahnhofstrasse, connecting Lake Zurich with the Main Railway Station, is a globally renowned shopping boulevard featuring high-end brands and boutiques.",
+        "tags": [
+            "Luxury Shopping",
+            "Tourist Attraction",
+            "Zurich",
+            "Exclusive Brands",
+            "Historical Sites"
+        ]
+    },
+    {
+        "id": "57",
+        "title": "Niederdorf \u2013 Popular Promenade in Zurich's Old Town",
+        "content": "Niederdorf, affectionately known as \"D\u00f6rfli\" by locals, forms a vital part of Zurich's old town. It's a pedestrian-friendly area known for its vibrant atmosphere, historical architecture, and narrow alleys filled with restaurants, cafes, and stores. By day, it's a shopping haven, and by night, it transforms into a lively district with bars and street artists. The annual \"D\u00f6rflif\u00e4scht\" festival highlights Niederdorf's cultural significance, offering entertainment, culinary delights, and a showcase of local talents.",
+        "summary": "Niederdorf, or \"D\u00f6rfli\", is a bustling area in Zurich's old town, renowned for its shops, nightlife, and the annual \"D\u00f6rflif\u00e4scht\" festival.",
+        "tags": [
+            "Old Town Zurich",
+            "Nightlife",
+            "Shopping District",
+            "Cultural Events",
+            "Pedestrian Friendly"
+        ]
+    },
+    {
+        "id": "58",
+        "title": "Augustinergasse \u2013 One of Zurich's Most Beautiful Historical Narrow Streets",
+        "content": "Augustinergasse is a picturesque narrow street in Zurich, notable for its beautifully preserved, colorfully painted bay windows. These windows were strategically designed to provide better lighting and allow residents to see who was at the door from a distance, offering both aesthetic and practical benefits. Linking the bustling Bahnhofstrasse with the historic Augustiner Church, Augustinergasse is a charming testament to Zurich's rich history and architectural heritage, leading to the serene St. Peterhofstatt.",
+        "summary": "Augustinergasse stands out in Zurich's old town for its colorful bay windows, connecting Bahnhofstrasse with historic landmarks and offering a glimpse into the city's past.",
+        "tags": [
+            "Historical Architecture",
+            "Zurich",
+            "Narrow Streets",
+            "Cultural Heritage",
+            "Bay Windows"
+        ]
+    },
+    {
+        "id": "59",
+        "title": "Rechberg (Park)",
+        "content": "Rechberg Park, situated between the Kunsthaus and Zurich University, is renowned for its well-preserved baroque garden, described as the most beautiful in Zurich. This oasis of peace and relaxation is open to the public, offering an escape within the city. Not immediately visible from the street, the park is an insider tip for many, despite being well-known among students at Zurich University. The park's design, dating back to 1790, includes a courtyard, parterre, terraces, garden walls, fountains, and an extended orangery, maintaining its historic layout. It's a favored spot for recreation among students, tourists, and locals. A notable feature is the 'Undine' graffiti by Harald N\u00e4geli on the Department of German's university building, now protected under a preservation order, highlighting the park's blend of natural beauty and urban art.",
+        "summary": "Rechberg Park, with its well-preserved baroque garden and historic layout, is a serene urban retreat and a popular spot for relaxation and recreation.",
+        "tags": [
+            "Baroque Garden",
+            "Public Park",
+            "Urban Oasis",
+            "Historic Layout",
+            "Zurich University"
+        ]
+    },
+    {
+        "id": "60",
+        "title": "Lindenhof \u2013 From Roman Fort to Green Vantage Point Over Zurich",
+        "content": "Lindenhof is an oasis in the heart of Zurich, offering spectacular views of the Old Town, Grossmunster Church, City Hall, the Limmat river, and educational institutions such as the university and the Swiss Federal Institute of Technology. Historically significant, Lindenhof served as a Roman fort in the 4th century and later as the site of a regal palace built by Charlemagne's grandson in the 9th century. It has been a central gathering place through the ages, notably for the oath sealing the Helvetic Constitution in 1798. Today, Lindenhof remains a serene spot for relaxation and is popular among chess enthusiasts, maintaining its role as a peaceful retreat amidst the bustling city.",
+        "summary": "Lindenhof stands as a tranquil green space in Zurich's heart, rich in history from its Roman origins to its current status as a cherished urban retreat.",
+        "tags": [
+            "Historical Site",
+            "Green Space",
+            "Zurich",
+            "Panoramic Views",
+            "Cultural Significance"
+        ]
+    }
+]
